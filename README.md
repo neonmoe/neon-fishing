@@ -3,7 +3,8 @@ Neon Fishing
 
 General
 -------
-Neon Fishing is a first person fisher game, set in a neon sci-fi ocean scenery. Catch fish of all shapes* and sizes! Experience the eye-destroying contrast of a beautiful neon bloom-filled 3D world!
+Neon Fishing is a first person fisher game, set in a neon sci-fi ocean scenery. Catch fish of all shapes* and sizes! Experience the eye-destroying contrast of a beautiful neon bloom-filled 3D world!  
+**differing shapes not guaranteed*
 
 Made for the Fishing Jam in a weekend. Plus a few hours during the week.
 
